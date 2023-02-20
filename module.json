@@ -1,0 +1,15 @@
+{
+    "id": "Combat-improvement-SFRPG",
+    "title": "Starfinder Combat improvement",
+    "description": "A starfinder module that improves the flow of combat by adding AC comparisons based on the target and weapon rolls",
+    "authors": [
+        {
+            "name": "Fenix20xx"
+        }
+    ],
+    "version": "0.1.0",
+    "compatbility": {
+        "minimum": "9",
+        "verified": "10"
+    }
+}
