@@ -13,4 +13,7 @@
         "verified": "10"
     },
     "system": ["sfrpg"]
+    "scripts": [
+  "scripts/combat-improvement.js"
+]
 }
