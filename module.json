@@ -9,8 +9,8 @@
     ],
     "version": "0.1.1",
     "compatbility": {
-        "minimum": "9",
-        "verified": "10"
+        "minimum": "10",
+        "verified": "12"
     },
     "system": ["sfrpg"]
     "scripts": [
