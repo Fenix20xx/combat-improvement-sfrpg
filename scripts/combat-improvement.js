@@ -1,11 +1,15 @@
 class CombatImprovement {
   static Id = 'combat-improvement';
   
-  Hooks.on("Init": function() {
-    Console.log("Combat Improvement is Running!")
+  Hook.on("Init": function() {
+    console.log("Combat Improvement is Running!");
   });
 
-  Hooks.on
+  Hook.on("ready", function() {
+    console.log("Code runs once gamedata is availaible");
+  });
+
+  Hook.on()
   
   static TEMPLATES = {
     COMBATIMPROVER: `modules/${this.ID}/templates/combatimprovement.hbs`
