@@ -1,6 +1,6 @@
 {
-    "id": "Combat-improvement-SFRPG",
-    "title": "Starfinder Combat improvement",
+    "id": "combat-improvement-sfrpg",
+    "title": "Starfinder Combat Improvement",
     "description": "A starfinder module that improves the flow of combat by adding AC comparisons based on the target and weapon rolls",
     "authors": [
         {
@@ -11,9 +11,6 @@
     "compatbility": {
         "minimum": "10",
         "verified": "12"
-    },
-    "system": ["sfrpg"]
-    "scripts": [
-  "scripts/combat-improvement.js"
-]
+    }
+
 }
